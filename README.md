@@ -1,2 +1,2 @@
 # hello-world
-First Git Repository
+First Git Repository of Marcus McDonald
